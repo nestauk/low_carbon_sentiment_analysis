@@ -1,0 +1,11 @@
+twitter:
+  uk_geocode: "53.8175,-3.0357,225mi" # https://www.jcsocialmedia.com/how-to-cover-the-whole-uk-with-a-geocode-and-radius/
+  aus_geocode: "-27.794450,133.876688,1346mi" # https://www.mapdevelopers.com/draw-circle-tool.php?circles=%5B%5B2166132.98%2C-27.7944503%2C133.876688%2C%22%23AAAAAA%22%2C%22%23000000%22%2C0.4%5D%5D
+  number_of_tweets: 1000
+
+sentiment:
+  neg_param: -0.1
+  pos_param: 0.1
+
+buildhub:
+  wait: 2
